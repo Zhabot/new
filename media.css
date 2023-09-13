@@ -1,0 +1,15 @@
+@media screen  and(max-width: 600px) {
+  .container {
+    flex-direction: column
+  }
+  .cat-icons {
+    margin-left: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+  }
+  .cat-icon1, .cat-icon2 {
+    margin-right: 0;
+  }
+}
+    
